@@ -1,0 +1,13 @@
+.task-row-done{
+    opacity: 0.25;
+}
+
+.task-list{
+    width: 800px;
+}
+
+@media screen and (max-width:800px) {
+    .task-list{
+        width: 100px;
+    }
+}
